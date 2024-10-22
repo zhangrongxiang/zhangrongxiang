@@ -6,6 +6,9 @@
 
 
 My name is Jack Zhang (Chinese: 张容祥).I am an undergraduate student at Harbin Institute of Technology. I  am interested in various fields including Diffusion Model and LLM.
+- Assessment score: 98.60 &nbsp;    Rank( 1/709)
+- CET4: &nbsp; 665
+- CET6:&nbsp; 595
 
 I started programming since I was in middle school. And In my first year in the university, I have an encounter with Deep Learning and then became enthusiastic about it.
 I love reading,literature and poems.
@@ -17,6 +20,12 @@ If you are interested in me, your contact is highly anticipated!
 - 💻 Visit my [WebPage](https://zhangrongxiang.github.io/) for more details about me.
 
  [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=zhangrongxiang)](https://github.com/anuraghazra/github-readme-stats)
+  <h3 align="left">SELECTED HONORS </h3>
+  
+- **🏫National Scholarship @ The China Ministry of Education**
+- 🎓First-Class People's Scholarship of Harbin Institute of Technology (Weihai)@ Harbin Institute of Technology
+- 🏆Outstanding League Member of Harbin Institute of Technology @ Harbin Institute of Technology
+- 🏆National Merit Award in AIGC Innovation Competition, China College Computer Design Competition
 
 <h3 align="left">Latest Blog Posts</h3>
 <ul align="left">
