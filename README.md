@@ -7,7 +7,7 @@
 
 My name is Jack Zhang (Chinese: 张容祥).I am an undergraduate student at Harbin Institute of Technology. I  am interested in various fields including Diffusion Model and LLM.
 - Assessment score: 98.60 &nbsp;    Rank( 1/709)
-- CET4: &nbsp; 665
+- CET4:&nbsp; 665
 - CET6:&nbsp; 595
 
 I started programming since I was in middle school. And In my first year in the university, I have an encounter with Deep Learning and then became enthusiastic about it.
