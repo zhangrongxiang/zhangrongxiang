@@ -29,11 +29,11 @@ If you are interested in me, your contact is highly anticipated!
 
 <h3 align="left">RESEARCH EXPERIENCE </h3>
 
-- **Research Intership, Great Bay University, advised by [Zitong Yu](https://zitongyu.github.io/).**
+- **Research Internship, Great Bay University, advised by [Zitong Yu](https://zitongyu.github.io/).**
 
 We  propose AdaMHF: An Adaptive Multi-modal Hierarchical Fusion for Survival Analysis . More works in progress.
 
-- **Research Intership, Renmin University,[AI Box team](http://aibox.ruc.edu.cn/).**
+- **Research Internship, Renmin University of China, [AI Box team](http://aibox.ruc.edu.cn/).**
 <h3 align="left">Latest Blog Posts</h3>
 <ul align="left">
   <li><a href="https://blog.csdn.net/qq_35328355/article/details/141034499?spm=1001.2014.3001.5501">Poisson Distribution</a></li>
