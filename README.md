@@ -31,9 +31,11 @@ If you are interested in me, your contact is highly anticipated!
 
 - **Research Internship, Great Bay University, advised by [Zitong Yu](https://zitongyu.github.io/).**
 
-We  propose AdaMHF: An Adaptive Multi-modal Hierarchical Fusion for Survival Analysis . More works in progress.
+&emsp;We  propose AdaMHF: An Adaptive Multi-modal Hierarchical Fusion for Survival Analysis . More works in progress.
 
 - **Research Internship, Renmin University of China, [AI Box team](http://aibox.ruc.edu.cn/).**
+&emsp;I just pass the assessment and now are learning knowledge about LLM and reinforcement learning.
+
 <h3 align="left">Latest Blog Posts</h3>
 <ul align="left">
   <li><a href="https://blog.csdn.net/qq_35328355/article/details/141034499?spm=1001.2014.3001.5501">Poisson Distribution</a></li>
