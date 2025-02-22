@@ -4,14 +4,12 @@
 
 ## <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> ɪ'ᴍ JackZhang
 
-
-My name is Jack Zhang (Chinese: 张容祥).I am an undergraduate student at Harbin Institute of Technology. I  am interested in various fields including Diffusion Model and LLM.Currently I'm focusing on **Reinforcement Learning**.
+**人，可以生如蚁而美如神 ———顾城**
+My name is Jack Zhang.I am an undergraduate student at Harbin Institute of Technology(Weihai). I  am interested in various fields including Reinforcement Learning and LLM.
 - Assessment score: 98.60 &nbsp;    Rank( 1/709)
 - CET4:&nbsp; 665
 - CET6:&nbsp; 595
-
-I started programming since I was in middle school. And In my first year in the university, I have an encounter with Deep Learning and then became enthusiastic about it.
-I love reading,literature and poems.
+- 
 If you are interested in me, your contact is highly anticipated!
 
 - ✨ Student of life :)
@@ -40,8 +38,5 @@ I just pass the assessment and now are learning knowledge about LLM and reinforc
   <li><a href="https://blog.csdn.net/qq_35328355/article/details/140288463?spm=1001.2014.3001.5501">Deploy a LLM locally via Ollama</a></li>
 </ul>
 ----------------------------------------------------------
-
-**人，可以生如蚁而美如神 ———顾城**
-
 
  [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=zhangrongxiang)](https://github.com/anuraghazra/github-readme-stats)
