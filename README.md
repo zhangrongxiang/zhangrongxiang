@@ -19,7 +19,6 @@ If you are interested in me, your contact is highly anticipated!
 - ✍ I write technical blogs, You can visit my blog site at [CSDN](https://blog.csdn.net/qq_35328355).
 - 💻 Visit my [WebPage](https://zhangrongxiang.github.io/) for more details about me.
 
- [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=zhangrongxiang)](https://github.com/anuraghazra/github-readme-stats)
   <h3 align="left">SELECTED HONORS </h3>
   
 - **🏫National Scholarship @ The China Ministry of Education**
@@ -43,3 +42,6 @@ I just pass the assessment and now are learning knowledge about LLM and reinforc
 ----------------------------------------------------------
 
 **人，可以生如蚁而美如神 ———顾城**
+
+
+ [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=zhangrongxiang)](https://github.com/anuraghazra/github-readme-stats)
