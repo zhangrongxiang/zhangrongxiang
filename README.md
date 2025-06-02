@@ -9,6 +9,9 @@
 
 My name is Jack Zhang. I am an undergraduate student at Harbin Institute of Technology(Weihai). I  am interested in various fields including Reinforcement Learning and LLM.
 I also love reading novels and poems.  
+
+Currently I am working as a reasearch assistant under the guidance of [Dianbo Sui](https://scholar.google.com/citations?user=yi639zEAAAAJ&hl=en). I'm also a remote student of [LINS LAB](https://lins-lab.github.io/), directed by Tao Lin.
+
 If you are interested in me, your contact is highly anticipated!
 
 - ✨ Student of life :)
@@ -23,13 +26,21 @@ If you are interested in me, your contact is highly anticipated!
 - 🏆Outstanding League Member of Harbin Institute of Technology @ Harbin Institute of Technology
 - 🏆National Merit Award in AIGC Innovation Competition, China College Computer Design Competition
 
-<h3 align="left">RESEARCH EXPERIENCE </h3>
+<h3 align="left">PUBLICATIONS </h3>
 
-- **Research Internship, Great Bay University, advised by [Zitong Yu](https://zitongyu.github.io/).**
-We  propose AdaMHF: An Adaptive Multi-modal Hierarchical Fusion for Survival Analysis . More works in progress.
+### 📌 **AdaMHF: Adaptive Multimodal Hierarchical Fusion for Survival Prediction**
 
-- **Research Internship, Renmin University of China, [AI Box team](http://aibox.ruc.edu.cn/).**
-I just pass the assessment and now are learning knowledge about LLM and reinforcement learning.
+Shuaiyu Zhang, Xun Lin, **Rongxiang Zhang**, Yu Bai, Yong Xu, Tao Tan, Xunbin Zheng, Zitong Yu  
+📣 **ICME 2025 Oral**  
+[📄 Paper](https://arxiv.org/abs/2503.21124) / [💻 Code](#) / [🧠 Dataset](#) / [📰 Press Release](#)
+
+
+### 🧭 **ManuSearch: Democratizing Deep Search in Large Language Models with a Transparent and Open Multi-Agent Framework**
+
+**Lisheng Huang**, Yichen Liu, Jinhao Jiang, **Rongxiang Zhang**, Jiahao Yan, Junyi Li, Wayne Xin Zhao  
+📝 *Preprint, Under Review*  
+[📄 Paper](https://arxiv.org/abs/2505.18105) / [💻 Code](#) / [🌐 Project Page](#) / [📰 Press Release](#)
+
 
 <h3 align="left">Latest Blog Posts</h3>
 <ul align="left">
