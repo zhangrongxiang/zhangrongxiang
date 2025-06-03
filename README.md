@@ -22,6 +22,7 @@ If you are interested in me, your contact is highly anticipated!
   <h3 align="left">SELECTED HONORS </h3>
   
 - **🏫National Scholarship @ The China Ministry of Education**
+- 🏆Meritorious Winner, MathematicalContest in Modeling @ COMAP
 - 🎓First-Class People's Scholarship of Harbin Institute of Technology (Weihai)@ Harbin Institute of Technology
 - 🏆Outstanding League Member of Harbin Institute of Technology @ Harbin Institute of Technology
 - 🏆National Merit Award in AIGC Innovation Competition, China College Computer Design Competition
@@ -32,14 +33,14 @@ If you are interested in me, your contact is highly anticipated!
 
 Shuaiyu Zhang, Xun Lin, **Rongxiang Zhang**, Yu Bai, Yong Xu, Tao Tan, Xunbin Zheng, Zitong Yu  
 📣 **ICME 2025 Oral**  
-[📄 Paper](https://arxiv.org/abs/2503.21124) / [💻 Code](#) / [🧠 Dataset](#) / [📰 Press Release](#)
+[📄 Paper](https://arxiv.org/abs/2503.21124) / [💻 Code](https://github.com/Curry30Messi/AdaMHF)
 
 
 ### 🧭 **ManuSearch: Democratizing Deep Search in Large Language Models with a Transparent and Open Multi-Agent Framework**
 
-**Lisheng Huang**, Yichen Liu, Jinhao Jiang, **Rongxiang Zhang**, Jiahao Yan, Junyi Li, Wayne Xin Zhao  
+Lisheng Huang, Yichen Liu, Jinhao Jiang, **Rongxiang Zhang**, Jiahao Yan, Junyi Li, Wayne Xin Zhao  
 📝 *Preprint, Under Review*  
-[📄 Paper](https://arxiv.org/abs/2505.18105) / [💻 Code](#) / [🌐 Project Page](#) / [📰 Press Release](#)
+[📄 Paper](https://arxiv.org/abs/2505.18105) / [💻 Code](#)  / [📰 Press Release](https://mp.weixin.qq.com/s/H9mafNEUoPGZuoJq-L9Mdg)
 
 
 <h3 align="left">Latest Blog Posts</h3>
