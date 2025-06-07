@@ -22,7 +22,7 @@ If you are interested in me, your contact is highly anticipated!
   <h3 align="left">SELECTED HONORS </h3>
   
 - **🏫National Scholarship @ The China Ministry of Education**
-- 🏆Meritorious Winner, MathematicalContest in Modeling @ COMAP
+- 🏆Meritorious Winner, Mathematical Contest in Modeling @ COMAP
 - 🎓First-Class People's Scholarship of Harbin Institute of Technology (Weihai)@ Harbin Institute of Technology
 - 🏆Outstanding League Member of Harbin Institute of Technology @ Harbin Institute of Technology
 - 🏆National Merit Award in AIGC Innovation Competition, China College Computer Design Competition
