@@ -1,6 +1,3 @@
-<div>
-  <img align="right" width="40%" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png">
-</div>
 
 ## <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> ɪ'ᴍ JackZhang
 
@@ -10,7 +7,7 @@
 My name is Jack Zhang. I am an undergraduate student at Harbin Institute of Technology(Weihai). I  am interested in various fields including Reinforcement Learning and LLM.
 I also love reading novels and poems.  
 
-Currently I am working as a reasearch assistant under the guidance of [Dianbo Sui](https://scholar.google.com/citations?user=yi639zEAAAAJ&hl=en). I'm also a remote student of [LINS LAB](https://lins-lab.github.io/), directed by Tao Lin.
+Currently I am working as a reasearch assistant under the guidance of [Dianbo Sui](https://scholar.google.com/citations?user=yi639zEAAAAJ&hl=en). I'm also a remote student of [LINS LAB](https://lins-lab.github.io/), directed by [Tao Lin](https://tlin-taolin.github.io/).
 
 If you are interested in me, your contact is highly anticipated!
 
