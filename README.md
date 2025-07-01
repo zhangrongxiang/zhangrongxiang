@@ -8,7 +8,7 @@ My name is Jack Zhang. I am an undergraduate student at Harbin Institute of Tech
 I also love reading novels and poems.  
 
 Currently I am working as a reasearch assistant under the guidance of [Dianbo Sui](https://scholar.google.com/citations?user=yi639zEAAAAJ&hl=en), and a remote student of [LINS LAB](https://lins-lab.github.io/), directed by [Tao Lin](https://tlin-taolin.github.io/).
-I have also done a research internship in Wayne [Xin Zhao](https://scholar.google.com/citations?user=JNhNacoAAAAJ&hl=en) 's AI BOX group(Gaoling School,Renmin University of China).
+I have also done a research internship in [Wayne Xin Zhao](https://scholar.google.com/citations?user=JNhNacoAAAAJ&hl=en) 's AI BOX group(Gaoling School,Renmin University of China).
 
 If you are interested in me, your contact is highly anticipated!
 
