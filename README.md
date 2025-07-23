@@ -4,7 +4,7 @@
 **人，可以生如蚁而美如神 ———顾城**
 
 
-My name is Jack Zhang. I am an undergraduate student at Harbin Institute of Technology(Weihai). I  am interested in various fields including Diffusion Model and SVG generation.
+My name is Jack Zhang. I am an undergraduate student at Harbin Institute of Technology(Weihai). I  am interested in various fields including **Diffusion Model** and **SVG generation.**
 I also love reading novels and poems.  
 
 Currently I am working as a reasearch assistant under the guidance of [Dianbo Sui](https://scholar.google.com/citations?user=yi639zEAAAAJ&hl=en), and a remote student of [LINS LAB](https://lins-lab.github.io/), directed by [Tao Lin](https://tlin-taolin.github.io/).
@@ -38,7 +38,7 @@ Shuaiyu Zhang, Xun Lin, **Rongxiang Zhang**, Yu Bai, Yong Xu, Tao Tan, Xunbin Zh
 
 Lisheng Huang, Yichen Liu, Jinhao Jiang, **Rongxiang Zhang**, Jiahao Yan, Junyi Li, Wayne Xin Zhao  
 📝 *Preprint, Under Review*  
-[📄 Paper](https://arxiv.org/abs/2505.18105) / [💻 Code](#)  / [📰 Press Release](https://mp.weixin.qq.com/s/H9mafNEUoPGZuoJq-L9Mdg)
+[📄 Paper](https://arxiv.org/abs/2505.18105) / [💻 Code]((https://github.com/RUCAIBox/ManuSearch)  / [📰 Press Release](https://mp.weixin.qq.com/s/H9mafNEUoPGZuoJq-L9Mdg)
 
 
 <h3 align="left">Latest Blog Posts</h3>
