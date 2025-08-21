@@ -38,7 +38,7 @@ Shuaiyu Zhang, Xun Lin, **Rongxiang Zhang**, Yu Bai, Yong Xu, Tao Tan, Xunbin Zh
 
 Lisheng Huang, Yichen Liu, Jinhao Jiang, **Rongxiang Zhang**, Jiahao Yan, Junyi Li, Wayne Xin Zhao  
 📝 **EMNLP 2025 Findings**  
-[📄 Paper](https://arxiv.org/abs/2505.18105) / [💻 Code]((https://github.com/RUCAIBox/ManuSearch)  / [📰 Press Release](https://mp.weixin.qq.com/s/H9mafNEUoPGZuoJq-L9Mdg)
+[📄 Paper](https://arxiv.org/abs/2505.18105) / [💻 Code](https://github.com/RUCAIBox/ManuSearch)  / [📰 Press Release](https://mp.weixin.qq.com/s/H9mafNEUoPGZuoJq-L9Mdg)
 
 
 <h3 align="left">Latest Blog Posts</h3>
