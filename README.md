@@ -14,7 +14,7 @@ If you are interested in me, your contact is highly anticipated!
 
 - ✨ Student of life :)
 - 🌱 I’m currently learning many things, I believe that everyday is a learning opportunity.
-- ✍ I write technical blogs, You can visit my blog site at [CSDN](https://blog.csdn.net/qq_35328355).
+- ✍ I write technical blogs, You can visit my blog site at [Zhihu](https://www.zhihu.com/people/jack-9-69-23/posts) and [CSDN](https://blog.csdn.net/qq_35328355).
 - 💻 Visit my [WebPage](https://zhangrongxiang.github.io/) for more details about me.
 
   <h3 align="left">SELECTED HONORS </h3>
@@ -41,11 +41,6 @@ Lisheng Huang, Yichen Liu, Jinhao Jiang, **Rongxiang Zhang**, Jiahao Yan, Junyi 
 [📄 Paper](https://arxiv.org/abs/2505.18105) / [💻 Code](https://github.com/RUCAIBox/ManuSearch)  / [📰 Press Release](https://mp.weixin.qq.com/s/H9mafNEUoPGZuoJq-L9Mdg)
 
 
-<h3 align="left">Latest Blog Posts</h3>
-<ul align="left">
-  <li><a href="https://blog.csdn.net/qq_35328355/article/details/141034499?spm=1001.2014.3001.5501">Poisson Distribution</a></li>
-  <li><a href="https://blog.csdn.net/qq_35328355/article/details/140288463?spm=1001.2014.3001.5501">Deploy a LLM locally via Ollama</a></li>
-</ul>
 ----------------------------------------------------------
 
  [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=zhangrongxiang)](https://github.com/anuraghazra/github-readme-stats)
