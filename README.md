@@ -26,8 +26,8 @@ If you are interested in me, your contact is highly anticipated!
 - 🏆National Merit Award in AIGC Innovation Competition, China College Computer Design Competition
 
 <h3 align="left">PUBLICATIONS </h3>
-Please visit my [Google Scholar](https://scholar.google.com/citations?view_op=list_works&hl=zh-CN&user=-nfs0MIAAAAJ) for full publication list.
 
+Please visit my [Google Scholar](https://scholar.google.com/citations?view_op=list_works&hl=zh-CN&user=-nfs0MIAAAAJ) for full publication list.
 
 ### 📌 **AdaMHF: Adaptive Multimodal Hierarchical Fusion for Survival Prediction**
 
