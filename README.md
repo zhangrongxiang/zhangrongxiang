@@ -4,12 +4,13 @@
 **人，可以生如蚁而美如神 ———顾城**
 
 
-My name is Jack Zhang. I am an undergraduate student at Harbin Institute of Technology(Weihai). I  am interested in various fields including **Generative Models** and **Vector Graphics Synthesis.**
-I also love reading novels and poems.  
-
-Currently I am focusing on video generation, and a remote student of [LINS LAB](https://lins-lab.github.io/), directed by [Tao Lin](https://tlin-taolin.github.io/).
+I am a undergraduate student at Harbin Institute of Technology and an incoming PhD student at [Shanghai Innovation Institute](https://www.sii.edu.cn/main.htm). Currently I am working under the guidance of [Prof.Songhua Liu](https://huage001.github.io/) at [School of Artificial Intelligence, Shanghai Jiao Tong University](https://soai.sjtu.edu.cn/). 
+Prior to that, I  was a remote student of [LINS LAB](https://lins-lab.github.io/), directed by [Tao Lin](https://tlin-taolin.github.io/).
 I have also done a research internship in [Wayne Xin Zhao](https://scholar.google.com/citations?user=JNhNacoAAAAJ&hl=en) 's AI BOX group(Gaoling School,Renmin University of China).
 
+My research interests include **generative models,computer vision,  and machine learning theory.** I am dedicated to building efficient generative model systems and exploring the application of generative models in computer vision.
+
+I am seeking for **PhD positions in generative models, computer vision, and machine learning theory**.
 If you are interested in me, your contact is highly anticipated!
 
 - ✨ Student of life :)
@@ -28,6 +29,13 @@ If you are interested in me, your contact is highly anticipated!
 <h3 align="left">PUBLICATIONS </h3>
 
 Please visit my [Google Scholar](https://scholar.google.com/citations?view_op=list_works&hl=zh-CN&user=-nfs0MIAAAAJ) for full publication list.
+
+### 🎥 **LeapTalk: Breaking the Latency–Quality Trade-off in Talking Head Generation**
+
+**Rongxiang Zhang**, Songhua Liu  
+📣 *Preprint*  
+[📄 Project Page](https://zhangrongxiang.github.io/leaptalk-page/) / [💻 Code](https://github.com/zhangrongxiang/LeapTalk)
+
 
 ### 📌 **AdaMHF: Adaptive Multimodal Hierarchical Fusion for Survival Prediction**
 
