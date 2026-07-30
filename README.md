@@ -10,7 +10,7 @@ I have also done a research internship in [Wayne Xin Zhao](https://scholar.googl
 
 My research interests include **generative models,computer vision,  and machine learning theory.** I am dedicated to building efficient generative model systems and exploring the application of generative models in computer vision.
 
-I am seeking for **PhD positions in generative models, computer vision, and machine learning theory**.
+I am seeking for **PhD positions**.
 If you are interested in me, your contact is highly anticipated!
 
 - ✨ Student of life :)
