@@ -34,7 +34,7 @@ Please visit my [Google Scholar](https://scholar.google.com/citations?view_op=li
 
 **Rongxiang Zhang**, Songhua Liu  
 📣 *Preprint*  
-[📄 Project Page](https://zhangrongxiang.github.io/leaptalk-page/) / [📄 Paper](https://arxiv.org/abs/2608.00079)/ [💻 Code](https://github.com/zhangrongxiang/LeapTalk)
+[📄 Project Page](https://zhangrongxiang.github.io/leaptalk-page/) / [📄 Paper](https://arxiv.org/abs/2608.00079) / [💻 Code](https://github.com/zhangrongxiang/LeapTalk)
 
 
 ### 📌 **AdaMHF: Adaptive Multimodal Hierarchical Fusion for Survival Prediction**
