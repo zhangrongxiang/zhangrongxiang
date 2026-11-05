@@ -10,21 +10,11 @@ I have also done a research internship in [Wayne Xin Zhao](https://scholar.googl
 
 My research interests include **generative models,computer vision,  and machine learning theory.** I am dedicated to building efficient generative model systems and exploring the application of generative models in computer vision.
 
-I am seeking for **PhD positions**.
-If you are interested in me, your contact is highly anticipated!
 
 - ✨ Student of life :)
 - 🌱 I’m currently learning many things, I believe that everyday is a learning opportunity.
 - ✍ I write technical blogs, You can visit my blog site at [Zhihu](https://www.zhihu.com/people/jack-9-69-23/posts) and [CSDN](https://blog.csdn.net/qq_35328355).
 - 💻 Visit my [WebPage](https://zhangrongxiang.github.io/) for more details about me.
-
-  <h3 align="left">SELECTED HONORS </h3>
-  
-- **🏫National Scholarship @ The China Ministry of Education**
-- 🏆Meritorious Winner, Mathematical Contest in Modeling @ COMAP
-- 🎓First-Class People's Scholarship of Harbin Institute of Technology (Weihai)@ Harbin Institute of Technology
-- 🏆Outstanding League Member of Harbin Institute of Technology @ Harbin Institute of Technology
-- 🏆National Merit Award in AIGC Innovation Competition, China College Computer Design Competition
 
 <h3 align="left">PUBLICATIONS </h3>
 
