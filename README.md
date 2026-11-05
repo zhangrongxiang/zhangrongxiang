@@ -1,7 +1,16 @@
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:302b63,100:24243e&height=100&section=header" />
+</div>
 
-## <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> ɪ'ᴍ JackZhang
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=46&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&height=90&lines=Rongxiang+Zhang+%F0%9F%91%8B" alt="Rongxiang Zhang" />
+  <br/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=18&pause=2500&color=818CF8&center=true&vCenter=true&width=720&height=40&lines=World+Models+%E2%80%A2+Video+Generation+%E2%80%A2+Digital+Human;PhD+Student+%40+SJTU" alt="World Models • Video Generation • Digital Human" />
+</div>
 
-**人，可以生如蚁而美如神 ———顾城**
+##  ɪ'ᴍ Jack Zhang
+
+*人，可以生如蚁而美如神 — 顾城*
 
 I am an undergraduate student at **Harbin Institute of Technology (Weihai)** and an incoming PhD student at **School of Artificial Intelligence, Shanghai Jiao Tong University** (through joint program with **Shanghai Innovation Institute**), advised by [Prof.Songhua Liu](https://huage001.github.io/). 
 Prior to that, I  was a remote student of LINS LAB, directed by [Prof.Tao Lin](https://tlin-taolin.github.io/).
